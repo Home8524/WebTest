@@ -1,0 +1,20 @@
+{
+    "sounds": [
+        {
+            "id": 1,
+            "path": "Audio/BGM"
+        },
+        {
+            "id":501,
+            "path": "Audio/GameOver"
+        },
+        {
+            "id": 1001,
+            "path": "Audio/Merge"
+        },
+        {
+            "id": 1002,
+            "path": "Audio/Destroy"
+        }
+    ]
+}

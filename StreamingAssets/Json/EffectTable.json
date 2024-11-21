@@ -1,0 +1,70 @@
+{
+    "effects": [
+        {
+            "id": 2,
+            "path": "Effect/Merge/MergeLevel2",
+            "name": "MergeLevel2",
+            "poolCount": 40
+        },
+        {
+            "id": 3,
+            "path": "Effect/Merge/MergeLevel3",
+            "name": "MergeLevel3",
+            "poolCount": 40
+        },
+        {
+            "id": 4,
+            "path": "Effect/Merge/MergeLevel4",
+            "name": "MergeLevel4",
+            "poolCount": 40
+        },
+        {
+            "id": 5,
+            "path": "Effect/Merge/MergeLevel5",
+            "name": "MergeLevel5",
+            "poolCount": 20
+        },
+        {
+            "id": 6,
+            "path": "Effect/Merge/MergeLevel6",
+            "name": "MergeLevel6",
+            "poolCount": 20
+        },
+        {
+            "id": 7,
+            "path": "Effect/Merge/MergeLevel7",
+            "name": "MergeLevel7",
+            "poolCount": 20
+        },
+        {
+            "id": 8,
+            "path": "Effect/Merge/MergeLevel8",
+            "name": "MergeLevel8",
+            "poolCount": 20
+        },
+        {
+            "id": 9,
+            "path": "Effect/Merge/MergeLevel9",
+            "name": "MergeLevel9",
+            "poolCount": 20
+        },
+        {
+            "id": 10,
+            "path": "Effect/Merge/MergeLevel10",
+            "name": "MergeLevel10",
+            "poolCount": 20
+        },
+        {
+            "id": 11,
+            "path": "Effect/Merge/MergeLevel11",
+            "name": "MergeLevel11",
+            "poolCount": 20
+        },
+        {
+            "id":12,
+            "path": "Effect/Destroy",
+            "name": "Destroy",
+            "poolCount" : 40
+        }
+    ]
+}
