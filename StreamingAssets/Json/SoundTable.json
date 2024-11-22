@@ -5,7 +5,7 @@
             "path": "Audio/BGM"
         },
         {
-            "id":501,
+            "id": 501,
             "path": "Audio/GameOver"
         },
         {
@@ -15,6 +15,14 @@
         {
             "id": 1002,
             "path": "Audio/Destroy"
+        },
+        {
+            "id": 1003,
+            "path": "Audio/Drop"
+        },
+        {
+            "id": 1004,
+            "path": "Audio/BtnClick"
         }
     ]
 }
